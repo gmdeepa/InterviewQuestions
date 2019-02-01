@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars1.githubusercontent.com/u/2944987?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Anuj1990/InterviewQuestions" /><meta property="og:url" content="https://github.com/Anuj1990/InterviewQuestions" /><meta property="og:description" content="Contribute to Anuj1990/InterviewQuestions development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzY1NzMzMjM0OjRkZTBkZGZhNGQxOTk2ZjdjODM0OTVlMzRjNWM2ZTgxNjY2ZWQwOTRmOGI3NWU2MTQ0MGI0M2VlM2FlOWU2YmU=--df811d3e837817a41510892a014113acf60a8dc0">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzY1NzMzMjM0OmRjZjA3OWNmZWJhNGUzNTc4OWFiMDZiZWY5ZWU4Y2RjZDUzY2Q4Y2IyOTI4NGZmYjMzYjVhZjcyYmRlNWZjZmU=--0e9d0d0e101e648ddb0253c193e80e553f333faf">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="DA63:562F:18EDDA:2B0A74:5C53F545" data-pjax-transient>
+  <meta name="request-id" content="DF97:7F5E:1B43BC:2E6705:5C53FEE7" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="DA63:562F:18EDDA:2B0A74:5C53F545" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="46954026" /><meta name="octolytics-actor-login" content="gmdeepa" /><meta name="octolytics-actor-hash" content="252cc5c3caf03fb6f1ef4102e95d9ff6e1fd23d5a715262f615ce0c38ec2abe4" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="DF97:7F5E:1B43BC:2E6705:5C53FEE7" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="46954026" /><meta name="octolytics-actor-login" content="gmdeepa" /><meta name="octolytics-actor-hash" content="252cc5c3caf03fb6f1ef4102e95d9ff6e1fd23d5a715262f615ce0c38ec2abe4" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="gmdeepa">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="ODg4MTExOGY4OWE0MzRmYmVkNWVkNjgxMmNiY2JmZTNiMTFjNTExOWFjOGI4ZjhkNDNiMzg4NjAxNTVmZDljZXx7InJlbW90ZV9hZGRyZXNzIjoiMTIyLjE2Ny45LjE1MiIsInJlcXVlc3RfaWQiOiJEQTYzOjU2MkY6MThFRERBOjJCMEE3NDo1QzUzRjU0NSIsInRpbWVzdGFtcCI6MTU0OTAwNjE1MSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="NTZkZmMwODVlODlmZjRkMGRmNDM2ZDI3NDgwMjYxMmE0N2U5M2U1YjBhOTdiZjA4OGFhYTZiN2IzZGFjMWExMnx7InJlbW90ZV9hZGRyZXNzIjoiMTIyLjE2Ny45LjE1MiIsInJlcXVlc3RfaWQiOiJERjk3OjdGNUU6MUI0M0JDOjJFNjcwNTo1QzUzRkVFNyIsInRpbWVzdGFtcCI6MTU0OTAwODYyMSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,RELATED_ISSUES,MARKETPLACE_INSIGHTS_V2">
 
@@ -156,7 +156,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=iMoe0yjHXcXkQGyfVln4nFZHHvOPGMt0E8SXGsbhjYTbS/+9teDWkvIxhGfL0p/zDt1fnxLDgkLNcBYOPLlrZg=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=9zSSRA9PjCR+6qvWE2qt4p4Ifh6Qo0IhkEtNAjdG0dWktXMqkmgHc2ibQy6O4cqNxpI/cg14CxdO/8wWzR43Nw=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -386,7 +386,7 @@
       </div>
     </summary>
     <details-dialog class="anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="E2usEAgBqzeq77I/p232Un+MDQLE5g2z6lThQJ5z6iA3kuct4LQrsVLd0JnDEJVYP4VEtuVdOIy/VQmQXThLXg==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="+fPxYZY5LdEsm1lxLE8k+3yJLjkrpqpez4iL0X23upfdCrpcfoytV9SpO9dIMkfxPIBnjQodn2GaiWMBvvwb6Q==" />
         <div class="Box-header">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -501,7 +501,7 @@
         <div role="none" class="dropdown-divider"></div>
         <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
         <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="gTfpruGqa9ABP4lzBw3knukeSvSSDnIwdK8KU+Sg1fHFjC+/ZkhZd/UAaRT5aHW08yWsZHVJtR3yODrO6iuu4g==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="EiVn4ygx9p7JIlopsOiniTgM5IaE7ng3/hBLFUvknqJWnqHyr9PEOT0duk5OjTajIjcCFmOpvxp4h3uIRW/lsQ==" />
           
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
             Sign out
@@ -513,7 +513,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="fUH2WXT9Xzxvs8acyz1Bi9xB8PWfqwSoo7/h05xTsKs5+jBI8x9tm5uMJvs1WNChxnoWZXjsw4UlKNFOktjLuA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="OiNyH1KbjYOwqS5WqEWnKOlHjHj/6TuqsqRjANzjt8h+mLQO1Xm/JESWzjFWIDYC83xq6Biu/Ic0M1Od0mjM2w==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -551,7 +551,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="xHL0x7YvQZB0f7hSEbcS9li/sjSU2H/H2lyV3hyyXZS49HdpIHbBiU7/hXQV2qV3Gi4Qc9FYsCpb9v+e7IHi3w==" />      <input type="hidden" name="repository_id" id="repository_id" value="134943682" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="twygxdPLy4KsJo88XCFSIYxFPsT9tF3kZ07m2XoMFh7LiiNrRZJLm5amshpYTOWgztScg7g0kgnm5IyZij+pVQ==" />      <input type="hidden" name="repository_id" id="repository_id" value="134943682" class="form-control" />
 
       <details class="details-reset details-overlay select-menu float-left">
         <summary class="btn btn-sm btn-with-count select-menu-button" data-ga-click="Repository, click Watch settings, action:blob#show">
@@ -625,7 +625,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/Anuj1990/InterviewQuestions/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="oNdv8XLTmjE4Iv1LnTUYkV6riQIq4KHC3musWd4RFuNAvrEUL6ZLFGR8iYuf9gbK0zduNNcz58AKzHXyfKRtoQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/Anuj1990/InterviewQuestions/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="fAHqnjQcfyHH3nDXNGYu0zwvoYRvutmPraKySBDQPoacaDR7aWmuBJuABBc2pTCIsbNGspJpn415BWvjsmVFxA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -640,7 +640,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/Anuj1990/InterviewQuestions/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="j47NZm4ugrmyXHlIdaMqZJOsBYNJRMGmsdG97TtqSnWmaoaJegk5cdcSptMuxlaPSMMILRkZbF8cpU+/9Bj4YQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/Anuj1990/InterviewQuestions/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="qLHJEhMeTMqsPmRMpDRg3kf+Bl6spmJAiBf1uDiiSrmBVYL9Bzn3Aslwu9f/URw1nJEL8Pz7z7klYwfq99D4rQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -659,7 +659,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/Anuj1990/InterviewQuestions/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="vte5WF9Y++tyzkVT0WRxZIg0/kl2n20R15w58TgXWCspWuVCC/yF2sEj7as2qim2tgXID3yySMrD9G04r5VkCg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/Anuj1990/InterviewQuestions/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="KQ0CHAS9HexXT0Rz8Q2+uRveAv0UhHv/EpgERrtYQN2+gF4GUBlj3eSi7IsWw+ZrJe80ux6pXiQG8FCPLNp8/A==" />
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -861,13 +861,13 @@
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/Anuj1990/InterviewQuestions/edit/master/Project/mysql.yaml" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="lBePIuFGdMGA454LTR2MU3x0MXAWw71RiXRYAi5IKlr0rWzJ8ZhJoUdcMk6re7JX9SulG7Mniod6EMZpzNThwA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/Anuj1990/InterviewQuestions/edit/master/Project/mysql.yaml" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="XVeBHZNDnENq+YT5h5am7BJIrswBafS0afo0Vot12NM97WL2g52hI61GKLxh8Jjomxc6p6SNw2Kanqo9aekTSQ==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Anuj1990/InterviewQuestions/delete/master/Project/mysql.yaml" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="L8MH702BgyQG5qXJeBrU+GJPLUZlEGX7O/gaFQoUUCaqaMuo7EHeAEUt6Ia5bRg3ca2ISoAndugM91ikMJoW6A==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Anuj1990/InterviewQuestions/delete/master/Project/mysql.yaml" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="GnfYfKxFV6fuYYPDd+HdGj5tXUAVr09wGFoH+RHTU6+f3BQ7DYUKg62qzoy2lhHVLY/4TPCYXGMvVUVIK10VYQ==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete the file in your fork of this project" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1065,7 +1065,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2019 <span title="0.34435s from unicorn-7d4c5d5fbc-vfx79">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2019 <span title="0.54894s from unicorn-6bc7d7c958-pm8pp">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
