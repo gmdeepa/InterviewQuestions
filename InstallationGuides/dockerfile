@@ -1,0 +1,30 @@
+FROM centos
+MAINTAINER abc abc@abc.com
+SHELL ["/bin/bash", "-c"]
+WORKDIR /tmp
+COPY index.html /tmp/
+ADD http://mirrors.estointernet.in/apache/tomcat/tomcat-8/v8.5.37/bin/apache-tomcat-8.5.37.zip /tmp/
+RUN yum -y update
+RUN yum -y install epel-release
+RUN yum -y install wget java-1.8.0-openjdk-devel nodejs npm
+RUN java -version && node -v && npm -v
+RUN ls -lart && pwd
+ENV NAME=ABC
+CMD /bin/bash
+EXPOSE 80
+
+
+
+FROM ubuntu
+MAINTAINER abc abc@abc.com
+SHELL ["/bin/bash", "-c"]
+WORKDIR /tmp
+COPY index.html /tmp/
+ADD http://mirrors.estointernet.in/apache/tomcat/tomcat-8/v8.5.37/bin/apache-tomcat-8.5.37.zip /tmp/
+RUN apt update
+RUN apt -y install wget default-jdk nodejs npm
+RUN java --version && node -v && npm -v
+RUN ls -lart && pwd
+ENV NAME=ABC
+CMD /bin/bash
+EXPOSE 80
