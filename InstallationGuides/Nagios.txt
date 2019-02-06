@@ -12,3 +12,4 @@ cd nagiosxi
 
 Remove nginx in case of any issues
 apt remove --purge apache2 nginx
+apt remove --purge mysql-server* apache2 nginx
