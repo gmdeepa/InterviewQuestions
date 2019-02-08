@@ -26,10 +26,14 @@ history
 
 
 
-kubectl create namespace application
+## kubectl create namespace application
 kubectl get pods --all-namespaces
 
 kubectl run kubernetes-bootcamp --image=docker.io/jocatalin/kubernetes-bootcamp:v1 --port=8080
+
+## check if the pods and deployments are created
+kubectl get pods
+kubectl get deployments
 
 kubectl get services
 
